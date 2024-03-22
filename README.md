@@ -7,8 +7,9 @@ and looks up an optimal solution that gaurantees the desired ingredients (energy
 solver: matlab
 GUI using Java.
 sample screens
-![image](/images/1.png)
+
 ![image](/images/2.png)
 ![image](/images/3.png)
 ![image](/images/4.png)
+![image](/images/1.png)
 
