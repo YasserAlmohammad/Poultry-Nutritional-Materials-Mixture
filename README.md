@@ -3,6 +3,7 @@ Optimal solution for Poultry Nutritional Materials Mixture using Matlab solver a
 the GUI content is in Arabic.
 the application takes amounts of certain nutritional materials requested and certain ingredients, with large number of constraints and variables,
 and looks up an optimal solution that gaurantees the desired ingredients (energy, protein..etc.) that gives the cheapest cost.
+This is a cost minimization (optimization) problem.
 
 solver: matlab
 GUI using Java.
